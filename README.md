@@ -13,6 +13,7 @@ Fatih Sultan Mehmet Vakıf Üniversitesi Spring Boot Workshop repository
 
 ## Workshop öncesi hazırlıklar
 Terminalde aşağıdaki komutların problemsiz çalıştığından emin olalım.
+
 JDK:
 
     $java -version
